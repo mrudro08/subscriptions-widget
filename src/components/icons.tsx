@@ -1,0 +1,37 @@
+// Lucide icons — the same outline set the Figma file uses (Icon/credit-card,
+// Icon/more-h, Icon/pin …). Bundled locally; nothing is fetched at runtime.
+export {
+  ArrowDownRight,
+  ArrowLeft,
+  Bell,
+  Calendar,
+  Check,
+  ChevronDown,
+  ChevronUp,
+  CircleAlert,
+  CircleCheck,
+  CircleX,
+  Clock,
+  CreditCard,
+  Download,
+  Ellipsis,
+  EyeOff,
+  Globe,
+  Maximize2,
+  Monitor,
+  Moon,
+  Pin,
+  Plus,
+  Power,
+  RotateCcw,
+  Send,
+  Settings as SettingsIcon,
+  SquarePen,
+  Sun,
+  Trash2,
+  Upload,
+  X,
+} from "lucide-react";
+
+/** Default stroke for every icon in the widget. */
+export const STROKE = 1.75;
